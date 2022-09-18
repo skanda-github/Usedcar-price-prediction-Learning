@@ -33,6 +33,8 @@ In order to perform classification or regression, random forest builds a large n
 4. Cheers! The website will launch.
 
         Note : Specific requirement.txt is also there in order to run the notebook as well.
+## Deployment
+Website is created using streamlit and hosted in heroku.
 ## Core Concept
 
 1.  Random forest is just a team of decision trees. The final prediction of the
