@@ -45,4 +45,3 @@ random forest is simply the average of the different predictions of all the diff
 ## Links
 
 1. Dataset - https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
-2. Website - https://usedcar-price-estimator.herokuapp.com
